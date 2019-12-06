@@ -1,3 +1,5 @@
+MotionLogger
+
 Paste the folder of code in the /home/pi/Desktop directory.
 This program currently uses a bash command "MotionLogger" to 
 execute python scripts.
@@ -8,5 +10,7 @@ To add the command MotionLogger, use the following commands:
 !/bin/bash
 python3 /home/pi/Desktop/pyCameraMotion/motionLogger.py
 3. "sudo chmod 755 /usr/local/bin/MotionLogger"
+
+Motion Email Video with annotated movement
 
 
